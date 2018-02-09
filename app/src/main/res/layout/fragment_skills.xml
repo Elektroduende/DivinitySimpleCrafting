@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#af0813"
+    tools:context="com.tumblr.svandesigns.divinitysimplecrafting.ArrowFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="34dp"
+        android:src="@drawable/aerothurge"
+        android:id="@+id/aerothurge"
+        android:onClick="onClick"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aerothurge"
+        android:textColor="#FFFFFF"
+        android:id="@+id/text_aero"
+        android:textSize="25sp"
+        android:layout_below="@id/aerothurge"
+        android:layout_marginStart="35dp"/>
+
+    <ImageView
+        android:id="@+id/geomancy"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/aerothurge"
+        android:layout_marginEnd="25dp"
+        android:src="@drawable/geomancer" />
+
+    <TextView
+        android:id="@+id/text_geo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/geomancy"
+        android:layout_below="@+id/geomancy"
+        android:layout_marginStart="14dp"
+        android:text="Geomancy"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+</RelativeLayout>

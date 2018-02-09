@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">DivinitySimpleCrafting</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Nombres de Flechas -->
+    <string name="knock_arrow">Knockdown Arrowhead</string>
+    <string name="shock_arrow">Shocking Arrowhead</string>
+    <string name="slow_arrow">Slowdown Arrowhead</string>
+    <string name="water_arrow">Water Arrowhead</string>
+    <string name="poison_arrow">Poison Arrowhead</string>
+    <string name="charm_arrow">Charming Arrowhead</string>
+    <string name="fire_arrow">Fire Arrowhead</string>
+    <string name="cold_arrow">Freezing Arrowhead</string>
+    <string name="scloud_arrow">Static Cloud Arrowhead</string>
+    <string name="exp_arrow">Explosive Arrowhead</string>
+    <string name="steam_arrow">Steamcloud Arrowhead</string>
+    <string name="bless_arrow">Blessed Water Arrowhead</string>
+    <string name="necro_arrow">NecroFire Arrowhead</string>
+
+    <!-- Recipes de Flechas -->
+    <string name="knock_re">Knife (Any) + Antlers</string>
+    <string name="shock_re">Knife (Any) + Tooth</string>
+    <string name="slow_re">Oil + Arrowhead</string>
+    <string name="water_re">Water + Arrowhead</string>
+    <string name="pois_re">Poison + Arrowhead</string>
+    <string name="charm_re">Honey + Arrowhead</string>
+    <string name="fire_re">Fire Essence + Arrowhead</string>
+    <string name="cold_re">Water Essence + Arrowhead</string>
+    <string name="stat_re">Air Essence + Arrowhead</string>
+    <string name="poclo_re">Earth Essence + Arrowhead</string>
+    <string name="exp_re">Oil + Fire Arrowhead</string>
+    <string name="steam_re">Water + Fire Arrowhead</string>
+    <string name="bless_re">Source Orb + Water Arrowhead</string>
+    <string name="necro_re">Source Orb + Fire Arrowhead</string>
+
+    <!-- Nombres de Granadas -->
+    <string name="tre_gren">Tremor Grenade</string>
+    <string name="terr_gren">Terror Grenade</string>
+    <string name="pois_gren">Poison Cloud Grenade</string>
+    <string name="chem_gren">Chemical Warfare Grenade</string>
+    <string name="razz_gren">Razzle Dazzle Grenade</string>
+    <string name="nail_gren">Nailbomb Grenade</string>
+    <string name="fros_gren">Frost Grenade</string>
+    <string name="bless_gren">Blessed Ice Grenade</string>
+    <string name="thun_gren">Thunderbolt Grenade</string>
+    <string name="wat_gren">Water Balloon</string>
+    <string name="lov_gren">Love Grenade</string>
+    <string name="clus_gren">Cluster Grenade</string>
+    <string name="curs_gren">Cursed Cluster Grenade</string>
+    <string name="holy_gren">Holy Hand Grenade</string>
+    <string name="pois_flask">Poison Flask</string>
+    <string name="cur_pos_flask">Cursed Poison Flask</string>
+    <string name="oil_flask">Oil Flask</string>
+    <string name="bless_oil_flask">Blessed Oil Flask</string>
+    <string name="bfilled_oil">Bottle Filled with Oil</string>
+    <string name="cur_fir_gren">Cursed Firestorm Grenade</string>
+    <string name="bles_wa_gren">Blessed Water Balloon</string>
+    <string name="mind_gren">Mind Maggot Grenade</string>
+
+    <!-- Recipes de Granadas -->
+    <string name="re_tre">Empty Canister + Earth Essence</string>
+    <string name="re_terr">Empty Canister + Tormented Soul</string>
+    <string name="re_pois">Empty Canister + (any)Poison Source</string>
+    <string name="re_pois2">Empty Canister + Rotten Eggs</string>
+    <string name="re_chem">Empty Canister + Intestines</string>
+    <string name="re_razz">Empty Canister + Jellyroom</string>
+    <string name="re_razz2">Empty Canister + Air Resistance Potion</string>
+    <string name="re_nail">Empty Canister + Nails</string>
+    <string name="re_nail2">Empty Canister + Broken Bottle</string>
+    <string name="re_fros">Empty Canister + Water Essence</string>
+    <string name="re_bless">Source Orb + Frost Grenade</string>
+    <string name="re_thun">Empty Canister + Air Essence</string>
+    <string name="re_wat">Intestines + (any)Water Source</string>
+    <string name="re_lov">Empty Perfume Bottle + Pixie Dust</string>
+    <string name="re_lov2">Empty Perfume Bottle + Honey</string>
+    <string name="re_clus">Empty Grenade + Fire Essence</string>
+    <string name="re_cur_clus">Source Orb + Cluster Grenade</string>
+    <string name="re_holy">Sovereign\'s Orb + Starfish</string>
+    <string name="re_holy2">Sovereign\'s Orb + Pixie Dust</string>
+    <string name="re_poisf">Empty Flask + (any)Poison Source</string>
+    <string name="re_cur_poisf">Source Orb + Poison Flask</string>
+    <string name="re_oilf">Empty Flask + (any)Oil Source</string>
+    <string name="re_b_oilf">Source Orb + Oil Flask</string>
+    <string name="re_bfilledoil">Empty Bottle + (any)Oil Source</string>
+    <string name="re_curfire">Source Orb + Firestorm Grenade</string>
+    <string name="re_bwaterb">Source Orb + Water Balloon</string>
+    <string name="re_mind">Jar of Mind Maggots + Empty Grenade</string>
+</resources>
